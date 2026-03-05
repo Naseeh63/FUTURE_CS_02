@@ -1,0 +1,16 @@
+Subject: Amazon Invoice
+
+Sender: billing@amazon-support.net
+
+Message:
+Dear User,
+
+Your invoice is attached.
+Please review the document to confirm your purchase.
+
+Indicators:
+- Unknown sender domain
+- Suspicious attachment
+
+Classification: Suspicious
+Risk Level: Medium

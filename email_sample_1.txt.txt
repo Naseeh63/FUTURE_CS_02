@@ -1,0 +1,20 @@
+email_sample_1.txt
+Subject: PayPal Account Verification Required
+
+Sender: support@paypa1.com
+
+Message:
+Dear Customer,
+
+Your PayPal account has been temporarily limited.
+Please verify your account immediately using the link below.
+
+http://paypal-security-login.com
+
+Indicators:
+- Fake domain
+- Urgent language
+- Suspicious link
+
+Classification: Phishing
+Risk Level: High

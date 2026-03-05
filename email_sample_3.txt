@@ -1,0 +1,15 @@
+Subject: Google Security Alert
+
+Sender: security@google.com
+
+Message:
+We detected a new login to your Google account.
+
+If this was you, no action is required.
+
+Indicators:
+- Legitimate sender
+- No suspicious link
+
+Classification: Safe
+Risk Level: Low
